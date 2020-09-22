@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DatabaseConnectivity:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DatabaseConnectivity_jar</output-path>
+    <root id="archive" name="DatabaseConnectivity.jar">
+      <element id="module-output" name="DatabaseConnectivity" />
+    </root>
+  </artifact>
+</component>
